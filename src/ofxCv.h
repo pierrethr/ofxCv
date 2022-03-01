@@ -27,4 +27,7 @@
 #include "ofxCv/ObjectFinder.h" // object finding (e.g., face detection)
 #include "ofxCv/Kalman.h" // Kalman filter for smoothing
 
+#include "ofxCv/ORBTracker.h"
+
+
 // <3 kyle
